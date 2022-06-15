@@ -2,6 +2,8 @@
 
 The Objective of our Project is to hold Social Distance amongst humans and to test Face Mask on face of peoples withinside the time of COVID-19. This version may be detecting actual time Face masks and Social Distancing which may be very vital on this pandemic situation. Since all of the schools, schools and places of work which are closed now will reopen quickly and they may be wanting a few generations to be secure and healthy.
 
+### Output - [Output Images](https://github.com/RISHITA13/Real-Time-Face-Mask-and-Social-Distancing-Detector/tree/main/Output%20Images)
+
 Index Term :- machine Learning Algorithm,Tensorflow , OpenCV, numpy, sklearn, Argparser,
 Imutils and YOLOv3.
 
